@@ -1,2 +1,2 @@
 # quickpay
-Es una plataforma d epago por qr para restaurantes
+Es una plataforma de pago por qr para restaurantes
