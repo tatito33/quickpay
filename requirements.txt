@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+mysqlclient
+python-jose
+passlib
+qrcode
+stripe
+python-multipart
